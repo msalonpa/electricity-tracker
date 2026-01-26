@@ -1,0 +1,34 @@
+# Virtualenvs
+.venv/
+venv/
+ENV/
+
+# Local env files
+.env
+.env.*
+
+# Python cache & pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging/build
+build/
+dist/
+*.egg-info/
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Generated artifacts
+*.xlsx
+*.csv
+records.xlsx
+records.csv
+
+# Logs
+*.log

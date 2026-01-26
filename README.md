@@ -48,5 +48,3 @@ Notes
 - `requirements.txt` includes `XlsxWriter` (used by `ele_parser.py`).
 - Environment variables (optional for some endpoints) can be set in a `.env` file: `FORTUM_TOKEN`, `FORTUM_CUSTOMER_ID`, `DATAHUB_TOKEN`, `DATAHUB_METERING_POINT_EAN`, etc.
 - If you encounter TLS/OpenSSL warnings during install, it is generally safe for local development. If you need production-grade TLS, consider using a Python build linked to a modern OpenSSL.
-
-If you want, I can commit the `README.md` to git and then start the server for you now.
