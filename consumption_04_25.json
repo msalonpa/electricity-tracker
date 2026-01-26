@@ -1,0 +1,4335 @@
+{
+  "TimeSeries": [
+      {
+          "MeteringPointEAN": "643007520004355712",
+          "ResolutionDuration": "PT1H",
+          "PeriodStartTS": "2025-03-31T21:00:00.000Z",
+          "PeriodEndTS": "2025-04-30T21:00:00.000Z",
+          "ProductType": "8716867000030",
+          "UnitType": "kWh",
+          "ReadingType": "BN01",
+          "Observations": [
+              {
+                  "Epoch": "1743454800000",
+                  "PeriodStartTime": "2025-03-31T21:00:00Z",
+                  "Quantity": "3.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743458400000",
+                  "PeriodStartTime": "2025-03-31T22:00:00Z",
+                  "Quantity": "2.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743462000000",
+                  "PeriodStartTime": "2025-03-31T23:00:00Z",
+                  "Quantity": "3.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743465600000",
+                  "PeriodStartTime": "2025-04-01T00:00:00Z",
+                  "Quantity": "2.720000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743469200000",
+                  "PeriodStartTime": "2025-04-01T01:00:00Z",
+                  "Quantity": "2.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743472800000",
+                  "PeriodStartTime": "2025-04-01T02:00:00Z",
+                  "Quantity": "2.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743476400000",
+                  "PeriodStartTime": "2025-04-01T03:00:00Z",
+                  "Quantity": "2.390000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743480000000",
+                  "PeriodStartTime": "2025-04-01T04:00:00Z",
+                  "Quantity": "2.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743483600000",
+                  "PeriodStartTime": "2025-04-01T05:00:00Z",
+                  "Quantity": "1.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743487200000",
+                  "PeriodStartTime": "2025-04-01T06:00:00Z",
+                  "Quantity": "1.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743490800000",
+                  "PeriodStartTime": "2025-04-01T07:00:00Z",
+                  "Quantity": "0.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743494400000",
+                  "PeriodStartTime": "2025-04-01T08:00:00Z",
+                  "Quantity": "1.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743498000000",
+                  "PeriodStartTime": "2025-04-01T09:00:00Z",
+                  "Quantity": "0.990000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743501600000",
+                  "PeriodStartTime": "2025-04-01T10:00:00Z",
+                  "Quantity": "1.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743505200000",
+                  "PeriodStartTime": "2025-04-01T11:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743508800000",
+                  "PeriodStartTime": "2025-04-01T12:00:00Z",
+                  "Quantity": "0.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743512400000",
+                  "PeriodStartTime": "2025-04-01T13:00:00Z",
+                  "Quantity": "1.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743516000000",
+                  "PeriodStartTime": "2025-04-01T14:00:00Z",
+                  "Quantity": "1.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743519600000",
+                  "PeriodStartTime": "2025-04-01T15:00:00Z",
+                  "Quantity": "1.820000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743523200000",
+                  "PeriodStartTime": "2025-04-01T16:00:00Z",
+                  "Quantity": "1.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743526800000",
+                  "PeriodStartTime": "2025-04-01T17:00:00Z",
+                  "Quantity": "1.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743530400000",
+                  "PeriodStartTime": "2025-04-01T18:00:00Z",
+                  "Quantity": "1.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743534000000",
+                  "PeriodStartTime": "2025-04-01T19:00:00Z",
+                  "Quantity": "2.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743537600000",
+                  "PeriodStartTime": "2025-04-01T20:00:00Z",
+                  "Quantity": "3.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743541200000",
+                  "PeriodStartTime": "2025-04-01T21:00:00Z",
+                  "Quantity": "4.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743544800000",
+                  "PeriodStartTime": "2025-04-01T22:00:00Z",
+                  "Quantity": "3.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743548400000",
+                  "PeriodStartTime": "2025-04-01T23:00:00Z",
+                  "Quantity": "3.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743552000000",
+                  "PeriodStartTime": "2025-04-02T00:00:00Z",
+                  "Quantity": "3.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743555600000",
+                  "PeriodStartTime": "2025-04-02T01:00:00Z",
+                  "Quantity": "3.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743559200000",
+                  "PeriodStartTime": "2025-04-02T02:00:00Z",
+                  "Quantity": "0.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743562800000",
+                  "PeriodStartTime": "2025-04-02T03:00:00Z",
+                  "Quantity": "0.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743566400000",
+                  "PeriodStartTime": "2025-04-02T04:00:00Z",
+                  "Quantity": "1.860000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743570000000",
+                  "PeriodStartTime": "2025-04-02T05:00:00Z",
+                  "Quantity": "0.910000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743573600000",
+                  "PeriodStartTime": "2025-04-02T06:00:00Z",
+                  "Quantity": "0.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743577200000",
+                  "PeriodStartTime": "2025-04-02T07:00:00Z",
+                  "Quantity": "0.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743580800000",
+                  "PeriodStartTime": "2025-04-02T08:00:00Z",
+                  "Quantity": "1.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743584400000",
+                  "PeriodStartTime": "2025-04-02T09:00:00Z",
+                  "Quantity": "1.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743588000000",
+                  "PeriodStartTime": "2025-04-02T10:00:00Z",
+                  "Quantity": "0.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743591600000",
+                  "PeriodStartTime": "2025-04-02T11:00:00Z",
+                  "Quantity": "0.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743595200000",
+                  "PeriodStartTime": "2025-04-02T12:00:00Z",
+                  "Quantity": "0.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743598800000",
+                  "PeriodStartTime": "2025-04-02T13:00:00Z",
+                  "Quantity": "2.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743602400000",
+                  "PeriodStartTime": "2025-04-02T14:00:00Z",
+                  "Quantity": "2.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743606000000",
+                  "PeriodStartTime": "2025-04-02T15:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743609600000",
+                  "PeriodStartTime": "2025-04-02T16:00:00Z",
+                  "Quantity": "0.990000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743613200000",
+                  "PeriodStartTime": "2025-04-02T17:00:00Z",
+                  "Quantity": "0.880000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743616800000",
+                  "PeriodStartTime": "2025-04-02T18:00:00Z",
+                  "Quantity": "0.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743620400000",
+                  "PeriodStartTime": "2025-04-02T19:00:00Z",
+                  "Quantity": "4.220000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743624000000",
+                  "PeriodStartTime": "2025-04-02T20:00:00Z",
+                  "Quantity": "5.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743627600000",
+                  "PeriodStartTime": "2025-04-02T21:00:00Z",
+                  "Quantity": "6.140000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743631200000",
+                  "PeriodStartTime": "2025-04-02T22:00:00Z",
+                  "Quantity": "4.960000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743634800000",
+                  "PeriodStartTime": "2025-04-02T23:00:00Z",
+                  "Quantity": "2.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743638400000",
+                  "PeriodStartTime": "2025-04-03T00:00:00Z",
+                  "Quantity": "3.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743642000000",
+                  "PeriodStartTime": "2025-04-03T01:00:00Z",
+                  "Quantity": "2.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743645600000",
+                  "PeriodStartTime": "2025-04-03T02:00:00Z",
+                  "Quantity": "2.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743649200000",
+                  "PeriodStartTime": "2025-04-03T03:00:00Z",
+                  "Quantity": "3.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743652800000",
+                  "PeriodStartTime": "2025-04-03T04:00:00Z",
+                  "Quantity": "1.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743656400000",
+                  "PeriodStartTime": "2025-04-03T05:00:00Z",
+                  "Quantity": "2.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743660000000",
+                  "PeriodStartTime": "2025-04-03T06:00:00Z",
+                  "Quantity": "1.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743663600000",
+                  "PeriodStartTime": "2025-04-03T07:00:00Z",
+                  "Quantity": "2.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743667200000",
+                  "PeriodStartTime": "2025-04-03T08:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743670800000",
+                  "PeriodStartTime": "2025-04-03T09:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743674400000",
+                  "PeriodStartTime": "2025-04-03T10:00:00Z",
+                  "Quantity": "0.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743678000000",
+                  "PeriodStartTime": "2025-04-03T11:00:00Z",
+                  "Quantity": "1.980000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743681600000",
+                  "PeriodStartTime": "2025-04-03T12:00:00Z",
+                  "Quantity": "3.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743685200000",
+                  "PeriodStartTime": "2025-04-03T13:00:00Z",
+                  "Quantity": "1.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743688800000",
+                  "PeriodStartTime": "2025-04-03T14:00:00Z",
+                  "Quantity": "0.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743692400000",
+                  "PeriodStartTime": "2025-04-03T15:00:00Z",
+                  "Quantity": "1.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743696000000",
+                  "PeriodStartTime": "2025-04-03T16:00:00Z",
+                  "Quantity": "1.150000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743699600000",
+                  "PeriodStartTime": "2025-04-03T17:00:00Z",
+                  "Quantity": "0.980000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743703200000",
+                  "PeriodStartTime": "2025-04-03T18:00:00Z",
+                  "Quantity": "0.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743706800000",
+                  "PeriodStartTime": "2025-04-03T19:00:00Z",
+                  "Quantity": "6.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743710400000",
+                  "PeriodStartTime": "2025-04-03T20:00:00Z",
+                  "Quantity": "6.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743714000000",
+                  "PeriodStartTime": "2025-04-03T21:00:00Z",
+                  "Quantity": "6.040000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743717600000",
+                  "PeriodStartTime": "2025-04-03T22:00:00Z",
+                  "Quantity": "4.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743721200000",
+                  "PeriodStartTime": "2025-04-03T23:00:00Z",
+                  "Quantity": "0.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743724800000",
+                  "PeriodStartTime": "2025-04-04T00:00:00Z",
+                  "Quantity": "1.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743728400000",
+                  "PeriodStartTime": "2025-04-04T01:00:00Z",
+                  "Quantity": "0.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743732000000",
+                  "PeriodStartTime": "2025-04-04T02:00:00Z",
+                  "Quantity": "2.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743735600000",
+                  "PeriodStartTime": "2025-04-04T03:00:00Z",
+                  "Quantity": "1.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743739200000",
+                  "PeriodStartTime": "2025-04-04T04:00:00Z",
+                  "Quantity": "1.250000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743742800000",
+                  "PeriodStartTime": "2025-04-04T05:00:00Z",
+                  "Quantity": "0.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743746400000",
+                  "PeriodStartTime": "2025-04-04T06:00:00Z",
+                  "Quantity": "0.550000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743750000000",
+                  "PeriodStartTime": "2025-04-04T07:00:00Z",
+                  "Quantity": "1.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743753600000",
+                  "PeriodStartTime": "2025-04-04T08:00:00Z",
+                  "Quantity": "1.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743757200000",
+                  "PeriodStartTime": "2025-04-04T09:00:00Z",
+                  "Quantity": "1.620000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743760800000",
+                  "PeriodStartTime": "2025-04-04T10:00:00Z",
+                  "Quantity": "0.970000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743764400000",
+                  "PeriodStartTime": "2025-04-04T11:00:00Z",
+                  "Quantity": "0.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743768000000",
+                  "PeriodStartTime": "2025-04-04T12:00:00Z",
+                  "Quantity": "0.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743771600000",
+                  "PeriodStartTime": "2025-04-04T13:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743775200000",
+                  "PeriodStartTime": "2025-04-04T14:00:00Z",
+                  "Quantity": "1.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743778800000",
+                  "PeriodStartTime": "2025-04-04T15:00:00Z",
+                  "Quantity": "0.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743782400000",
+                  "PeriodStartTime": "2025-04-04T16:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743786000000",
+                  "PeriodStartTime": "2025-04-04T17:00:00Z",
+                  "Quantity": "0.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743789600000",
+                  "PeriodStartTime": "2025-04-04T18:00:00Z",
+                  "Quantity": "0.720000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743793200000",
+                  "PeriodStartTime": "2025-04-04T19:00:00Z",
+                  "Quantity": "4.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743796800000",
+                  "PeriodStartTime": "2025-04-04T20:00:00Z",
+                  "Quantity": "4.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743800400000",
+                  "PeriodStartTime": "2025-04-04T21:00:00Z",
+                  "Quantity": "4.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743804000000",
+                  "PeriodStartTime": "2025-04-04T22:00:00Z",
+                  "Quantity": "5.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743807600000",
+                  "PeriodStartTime": "2025-04-04T23:00:00Z",
+                  "Quantity": "3.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743811200000",
+                  "PeriodStartTime": "2025-04-05T00:00:00Z",
+                  "Quantity": "4.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743814800000",
+                  "PeriodStartTime": "2025-04-05T01:00:00Z",
+                  "Quantity": "3.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743818400000",
+                  "PeriodStartTime": "2025-04-05T02:00:00Z",
+                  "Quantity": "4.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743822000000",
+                  "PeriodStartTime": "2025-04-05T03:00:00Z",
+                  "Quantity": "2.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743825600000",
+                  "PeriodStartTime": "2025-04-05T04:00:00Z",
+                  "Quantity": "0.360000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743829200000",
+                  "PeriodStartTime": "2025-04-05T05:00:00Z",
+                  "Quantity": "0.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743832800000",
+                  "PeriodStartTime": "2025-04-05T06:00:00Z",
+                  "Quantity": "0.990000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743836400000",
+                  "PeriodStartTime": "2025-04-05T07:00:00Z",
+                  "Quantity": "2.360000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743840000000",
+                  "PeriodStartTime": "2025-04-05T08:00:00Z",
+                  "Quantity": "2.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743843600000",
+                  "PeriodStartTime": "2025-04-05T09:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743847200000",
+                  "PeriodStartTime": "2025-04-05T10:00:00Z",
+                  "Quantity": "0.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743850800000",
+                  "PeriodStartTime": "2025-04-05T11:00:00Z",
+                  "Quantity": "0.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743854400000",
+                  "PeriodStartTime": "2025-04-05T12:00:00Z",
+                  "Quantity": "1.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743858000000",
+                  "PeriodStartTime": "2025-04-05T13:00:00Z",
+                  "Quantity": "1.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743861600000",
+                  "PeriodStartTime": "2025-04-05T14:00:00Z",
+                  "Quantity": "1.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743865200000",
+                  "PeriodStartTime": "2025-04-05T15:00:00Z",
+                  "Quantity": "2.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743868800000",
+                  "PeriodStartTime": "2025-04-05T16:00:00Z",
+                  "Quantity": "1.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743872400000",
+                  "PeriodStartTime": "2025-04-05T17:00:00Z",
+                  "Quantity": "1.640000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743876000000",
+                  "PeriodStartTime": "2025-04-05T18:00:00Z",
+                  "Quantity": "2.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743879600000",
+                  "PeriodStartTime": "2025-04-05T19:00:00Z",
+                  "Quantity": "3.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743883200000",
+                  "PeriodStartTime": "2025-04-05T20:00:00Z",
+                  "Quantity": "4.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743886800000",
+                  "PeriodStartTime": "2025-04-05T21:00:00Z",
+                  "Quantity": "5.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743890400000",
+                  "PeriodStartTime": "2025-04-05T22:00:00Z",
+                  "Quantity": "4.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743894000000",
+                  "PeriodStartTime": "2025-04-05T23:00:00Z",
+                  "Quantity": "1.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743897600000",
+                  "PeriodStartTime": "2025-04-06T00:00:00Z",
+                  "Quantity": "2.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743901200000",
+                  "PeriodStartTime": "2025-04-06T01:00:00Z",
+                  "Quantity": "1.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743904800000",
+                  "PeriodStartTime": "2025-04-06T02:00:00Z",
+                  "Quantity": "0.960000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743908400000",
+                  "PeriodStartTime": "2025-04-06T03:00:00Z",
+                  "Quantity": "1.450000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743912000000",
+                  "PeriodStartTime": "2025-04-06T04:00:00Z",
+                  "Quantity": "1.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743915600000",
+                  "PeriodStartTime": "2025-04-06T05:00:00Z",
+                  "Quantity": "1.620000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743919200000",
+                  "PeriodStartTime": "2025-04-06T06:00:00Z",
+                  "Quantity": "0.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743922800000",
+                  "PeriodStartTime": "2025-04-06T07:00:00Z",
+                  "Quantity": "0.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743926400000",
+                  "PeriodStartTime": "2025-04-06T08:00:00Z",
+                  "Quantity": "1.220000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743930000000",
+                  "PeriodStartTime": "2025-04-06T09:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743933600000",
+                  "PeriodStartTime": "2025-04-06T10:00:00Z",
+                  "Quantity": "1.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743937200000",
+                  "PeriodStartTime": "2025-04-06T11:00:00Z",
+                  "Quantity": "6.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743940800000",
+                  "PeriodStartTime": "2025-04-06T12:00:00Z",
+                  "Quantity": "6.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743944400000",
+                  "PeriodStartTime": "2025-04-06T13:00:00Z",
+                  "Quantity": "7.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743948000000",
+                  "PeriodStartTime": "2025-04-06T14:00:00Z",
+                  "Quantity": "7.450000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743951600000",
+                  "PeriodStartTime": "2025-04-06T15:00:00Z",
+                  "Quantity": "3.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743955200000",
+                  "PeriodStartTime": "2025-04-06T16:00:00Z",
+                  "Quantity": "1.030000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743958800000",
+                  "PeriodStartTime": "2025-04-06T17:00:00Z",
+                  "Quantity": "0.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743962400000",
+                  "PeriodStartTime": "2025-04-06T18:00:00Z",
+                  "Quantity": "1.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743966000000",
+                  "PeriodStartTime": "2025-04-06T19:00:00Z",
+                  "Quantity": "3.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743969600000",
+                  "PeriodStartTime": "2025-04-06T20:00:00Z",
+                  "Quantity": "4.140000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743973200000",
+                  "PeriodStartTime": "2025-04-06T21:00:00Z",
+                  "Quantity": "3.250000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743976800000",
+                  "PeriodStartTime": "2025-04-06T22:00:00Z",
+                  "Quantity": "1.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743980400000",
+                  "PeriodStartTime": "2025-04-06T23:00:00Z",
+                  "Quantity": "1.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743984000000",
+                  "PeriodStartTime": "2025-04-07T00:00:00Z",
+                  "Quantity": "2.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743987600000",
+                  "PeriodStartTime": "2025-04-07T01:00:00Z",
+                  "Quantity": "2.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743991200000",
+                  "PeriodStartTime": "2025-04-07T02:00:00Z",
+                  "Quantity": "1.390000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743994800000",
+                  "PeriodStartTime": "2025-04-07T03:00:00Z",
+                  "Quantity": "1.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1743998400000",
+                  "PeriodStartTime": "2025-04-07T04:00:00Z",
+                  "Quantity": "1.290000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744002000000",
+                  "PeriodStartTime": "2025-04-07T05:00:00Z",
+                  "Quantity": "0.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744005600000",
+                  "PeriodStartTime": "2025-04-07T06:00:00Z",
+                  "Quantity": "1.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744009200000",
+                  "PeriodStartTime": "2025-04-07T07:00:00Z",
+                  "Quantity": "1.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744012800000",
+                  "PeriodStartTime": "2025-04-07T08:00:00Z",
+                  "Quantity": "1.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744016400000",
+                  "PeriodStartTime": "2025-04-07T09:00:00Z",
+                  "Quantity": "0.990000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744020000000",
+                  "PeriodStartTime": "2025-04-07T10:00:00Z",
+                  "Quantity": "0.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744023600000",
+                  "PeriodStartTime": "2025-04-07T11:00:00Z",
+                  "Quantity": "0.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744027200000",
+                  "PeriodStartTime": "2025-04-07T12:00:00Z",
+                  "Quantity": "0.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744030800000",
+                  "PeriodStartTime": "2025-04-07T13:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744034400000",
+                  "PeriodStartTime": "2025-04-07T14:00:00Z",
+                  "Quantity": "3.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744038000000",
+                  "PeriodStartTime": "2025-04-07T15:00:00Z",
+                  "Quantity": "1.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744041600000",
+                  "PeriodStartTime": "2025-04-07T16:00:00Z",
+                  "Quantity": "1.880000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744045200000",
+                  "PeriodStartTime": "2025-04-07T17:00:00Z",
+                  "Quantity": "0.690000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744048800000",
+                  "PeriodStartTime": "2025-04-07T18:00:00Z",
+                  "Quantity": "0.890000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744052400000",
+                  "PeriodStartTime": "2025-04-07T19:00:00Z",
+                  "Quantity": "2.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744056000000",
+                  "PeriodStartTime": "2025-04-07T20:00:00Z",
+                  "Quantity": "3.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744059600000",
+                  "PeriodStartTime": "2025-04-07T21:00:00Z",
+                  "Quantity": "3.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744063200000",
+                  "PeriodStartTime": "2025-04-07T22:00:00Z",
+                  "Quantity": "3.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744066800000",
+                  "PeriodStartTime": "2025-04-07T23:00:00Z",
+                  "Quantity": "1.840000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744070400000",
+                  "PeriodStartTime": "2025-04-08T00:00:00Z",
+                  "Quantity": "2.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744074000000",
+                  "PeriodStartTime": "2025-04-08T01:00:00Z",
+                  "Quantity": "1.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744077600000",
+                  "PeriodStartTime": "2025-04-08T02:00:00Z",
+                  "Quantity": "1.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744081200000",
+                  "PeriodStartTime": "2025-04-08T03:00:00Z",
+                  "Quantity": "2.450000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744084800000",
+                  "PeriodStartTime": "2025-04-08T04:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744088400000",
+                  "PeriodStartTime": "2025-04-08T05:00:00Z",
+                  "Quantity": "1.610000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744092000000",
+                  "PeriodStartTime": "2025-04-08T06:00:00Z",
+                  "Quantity": "1.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744095600000",
+                  "PeriodStartTime": "2025-04-08T07:00:00Z",
+                  "Quantity": "1.250000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744099200000",
+                  "PeriodStartTime": "2025-04-08T08:00:00Z",
+                  "Quantity": "1.130000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744102800000",
+                  "PeriodStartTime": "2025-04-08T09:00:00Z",
+                  "Quantity": "0.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744106400000",
+                  "PeriodStartTime": "2025-04-08T10:00:00Z",
+                  "Quantity": "0.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744110000000",
+                  "PeriodStartTime": "2025-04-08T11:00:00Z",
+                  "Quantity": "1.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744113600000",
+                  "PeriodStartTime": "2025-04-08T12:00:00Z",
+                  "Quantity": "1.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744117200000",
+                  "PeriodStartTime": "2025-04-08T13:00:00Z",
+                  "Quantity": "1.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744120800000",
+                  "PeriodStartTime": "2025-04-08T14:00:00Z",
+                  "Quantity": "2.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744124400000",
+                  "PeriodStartTime": "2025-04-08T15:00:00Z",
+                  "Quantity": "1.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744128000000",
+                  "PeriodStartTime": "2025-04-08T16:00:00Z",
+                  "Quantity": "1.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744131600000",
+                  "PeriodStartTime": "2025-04-08T17:00:00Z",
+                  "Quantity": "0.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744135200000",
+                  "PeriodStartTime": "2025-04-08T18:00:00Z",
+                  "Quantity": "1.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744138800000",
+                  "PeriodStartTime": "2025-04-08T19:00:00Z",
+                  "Quantity": "3.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744142400000",
+                  "PeriodStartTime": "2025-04-08T20:00:00Z",
+                  "Quantity": "6.960000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744146000000",
+                  "PeriodStartTime": "2025-04-08T21:00:00Z",
+                  "Quantity": "8.640000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744149600000",
+                  "PeriodStartTime": "2025-04-08T22:00:00Z",
+                  "Quantity": "7.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744153200000",
+                  "PeriodStartTime": "2025-04-08T23:00:00Z",
+                  "Quantity": "4.980000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744156800000",
+                  "PeriodStartTime": "2025-04-09T00:00:00Z",
+                  "Quantity": "5.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744160400000",
+                  "PeriodStartTime": "2025-04-09T01:00:00Z",
+                  "Quantity": "5.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744164000000",
+                  "PeriodStartTime": "2025-04-09T02:00:00Z",
+                  "Quantity": "1.390000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744167600000",
+                  "PeriodStartTime": "2025-04-09T03:00:00Z",
+                  "Quantity": "1.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744171200000",
+                  "PeriodStartTime": "2025-04-09T04:00:00Z",
+                  "Quantity": "1.040000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744174800000",
+                  "PeriodStartTime": "2025-04-09T05:00:00Z",
+                  "Quantity": "1.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744178400000",
+                  "PeriodStartTime": "2025-04-09T06:00:00Z",
+                  "Quantity": "0.970000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744182000000",
+                  "PeriodStartTime": "2025-04-09T07:00:00Z",
+                  "Quantity": "1.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744185600000",
+                  "PeriodStartTime": "2025-04-09T08:00:00Z",
+                  "Quantity": "1.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744189200000",
+                  "PeriodStartTime": "2025-04-09T09:00:00Z",
+                  "Quantity": "1.480000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744192800000",
+                  "PeriodStartTime": "2025-04-09T10:00:00Z",
+                  "Quantity": "2.170000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744196400000",
+                  "PeriodStartTime": "2025-04-09T11:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744200000000",
+                  "PeriodStartTime": "2025-04-09T12:00:00Z",
+                  "Quantity": "1.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744203600000",
+                  "PeriodStartTime": "2025-04-09T13:00:00Z",
+                  "Quantity": "0.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744207200000",
+                  "PeriodStartTime": "2025-04-09T14:00:00Z",
+                  "Quantity": "1.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744210800000",
+                  "PeriodStartTime": "2025-04-09T15:00:00Z",
+                  "Quantity": "1.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744214400000",
+                  "PeriodStartTime": "2025-04-09T16:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744218000000",
+                  "PeriodStartTime": "2025-04-09T17:00:00Z",
+                  "Quantity": "1.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744221600000",
+                  "PeriodStartTime": "2025-04-09T18:00:00Z",
+                  "Quantity": "0.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744225200000",
+                  "PeriodStartTime": "2025-04-09T19:00:00Z",
+                  "Quantity": "5.890000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744228800000",
+                  "PeriodStartTime": "2025-04-09T20:00:00Z",
+                  "Quantity": "6.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744232400000",
+                  "PeriodStartTime": "2025-04-09T21:00:00Z",
+                  "Quantity": "6.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744236000000",
+                  "PeriodStartTime": "2025-04-09T22:00:00Z",
+                  "Quantity": "4.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744239600000",
+                  "PeriodStartTime": "2025-04-09T23:00:00Z",
+                  "Quantity": "1.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744243200000",
+                  "PeriodStartTime": "2025-04-10T00:00:00Z",
+                  "Quantity": "4.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744246800000",
+                  "PeriodStartTime": "2025-04-10T01:00:00Z",
+                  "Quantity": "0.960000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744250400000",
+                  "PeriodStartTime": "2025-04-10T02:00:00Z",
+                  "Quantity": "3.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744254000000",
+                  "PeriodStartTime": "2025-04-10T03:00:00Z",
+                  "Quantity": "3.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744257600000",
+                  "PeriodStartTime": "2025-04-10T04:00:00Z",
+                  "Quantity": "1.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744261200000",
+                  "PeriodStartTime": "2025-04-10T05:00:00Z",
+                  "Quantity": "0.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744264800000",
+                  "PeriodStartTime": "2025-04-10T06:00:00Z",
+                  "Quantity": "0.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744268400000",
+                  "PeriodStartTime": "2025-04-10T07:00:00Z",
+                  "Quantity": "0.550000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744272000000",
+                  "PeriodStartTime": "2025-04-10T08:00:00Z",
+                  "Quantity": "1.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744275600000",
+                  "PeriodStartTime": "2025-04-10T09:00:00Z",
+                  "Quantity": "1.170000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744279200000",
+                  "PeriodStartTime": "2025-04-10T10:00:00Z",
+                  "Quantity": "0.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744282800000",
+                  "PeriodStartTime": "2025-04-10T11:00:00Z",
+                  "Quantity": "0.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744286400000",
+                  "PeriodStartTime": "2025-04-10T12:00:00Z",
+                  "Quantity": "3.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744290000000",
+                  "PeriodStartTime": "2025-04-10T13:00:00Z",
+                  "Quantity": "1.890000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744293600000",
+                  "PeriodStartTime": "2025-04-10T14:00:00Z",
+                  "Quantity": "0.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744297200000",
+                  "PeriodStartTime": "2025-04-10T15:00:00Z",
+                  "Quantity": "1.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744300800000",
+                  "PeriodStartTime": "2025-04-10T16:00:00Z",
+                  "Quantity": "1.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744304400000",
+                  "PeriodStartTime": "2025-04-10T17:00:00Z",
+                  "Quantity": "1.220000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744308000000",
+                  "PeriodStartTime": "2025-04-10T18:00:00Z",
+                  "Quantity": "0.910000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744311600000",
+                  "PeriodStartTime": "2025-04-10T19:00:00Z",
+                  "Quantity": "3.640000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744315200000",
+                  "PeriodStartTime": "2025-04-10T20:00:00Z",
+                  "Quantity": "6.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744318800000",
+                  "PeriodStartTime": "2025-04-10T21:00:00Z",
+                  "Quantity": "6.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744322400000",
+                  "PeriodStartTime": "2025-04-10T22:00:00Z",
+                  "Quantity": "5.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744326000000",
+                  "PeriodStartTime": "2025-04-10T23:00:00Z",
+                  "Quantity": "2.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744329600000",
+                  "PeriodStartTime": "2025-04-11T00:00:00Z",
+                  "Quantity": "3.970000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744333200000",
+                  "PeriodStartTime": "2025-04-11T01:00:00Z",
+                  "Quantity": "2.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744336800000",
+                  "PeriodStartTime": "2025-04-11T02:00:00Z",
+                  "Quantity": "2.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744340400000",
+                  "PeriodStartTime": "2025-04-11T03:00:00Z",
+                  "Quantity": "3.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744344000000",
+                  "PeriodStartTime": "2025-04-11T04:00:00Z",
+                  "Quantity": "1.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744347600000",
+                  "PeriodStartTime": "2025-04-11T05:00:00Z",
+                  "Quantity": "2.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744351200000",
+                  "PeriodStartTime": "2025-04-11T06:00:00Z",
+                  "Quantity": "0.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744354800000",
+                  "PeriodStartTime": "2025-04-11T07:00:00Z",
+                  "Quantity": "1.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744358400000",
+                  "PeriodStartTime": "2025-04-11T08:00:00Z",
+                  "Quantity": "1.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744362000000",
+                  "PeriodStartTime": "2025-04-11T09:00:00Z",
+                  "Quantity": "1.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744365600000",
+                  "PeriodStartTime": "2025-04-11T10:00:00Z",
+                  "Quantity": "0.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744369200000",
+                  "PeriodStartTime": "2025-04-11T11:00:00Z",
+                  "Quantity": "0.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744372800000",
+                  "PeriodStartTime": "2025-04-11T12:00:00Z",
+                  "Quantity": "1.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744376400000",
+                  "PeriodStartTime": "2025-04-11T13:00:00Z",
+                  "Quantity": "1.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744380000000",
+                  "PeriodStartTime": "2025-04-11T14:00:00Z",
+                  "Quantity": "2.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744383600000",
+                  "PeriodStartTime": "2025-04-11T15:00:00Z",
+                  "Quantity": "1.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744387200000",
+                  "PeriodStartTime": "2025-04-11T16:00:00Z",
+                  "Quantity": "1.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744390800000",
+                  "PeriodStartTime": "2025-04-11T17:00:00Z",
+                  "Quantity": "1.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744394400000",
+                  "PeriodStartTime": "2025-04-11T18:00:00Z",
+                  "Quantity": "0.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744398000000",
+                  "PeriodStartTime": "2025-04-11T19:00:00Z",
+                  "Quantity": "3.390000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744401600000",
+                  "PeriodStartTime": "2025-04-11T20:00:00Z",
+                  "Quantity": "2.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744405200000",
+                  "PeriodStartTime": "2025-04-11T21:00:00Z",
+                  "Quantity": "4.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744408800000",
+                  "PeriodStartTime": "2025-04-11T22:00:00Z",
+                  "Quantity": "3.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744412400000",
+                  "PeriodStartTime": "2025-04-11T23:00:00Z",
+                  "Quantity": "2.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744416000000",
+                  "PeriodStartTime": "2025-04-12T00:00:00Z",
+                  "Quantity": "4.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744419600000",
+                  "PeriodStartTime": "2025-04-12T01:00:00Z",
+                  "Quantity": "4.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744423200000",
+                  "PeriodStartTime": "2025-04-12T02:00:00Z",
+                  "Quantity": "2.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744426800000",
+                  "PeriodStartTime": "2025-04-12T03:00:00Z",
+                  "Quantity": "3.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744430400000",
+                  "PeriodStartTime": "2025-04-12T04:00:00Z",
+                  "Quantity": "0.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744434000000",
+                  "PeriodStartTime": "2025-04-12T05:00:00Z",
+                  "Quantity": "0.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744437600000",
+                  "PeriodStartTime": "2025-04-12T06:00:00Z",
+                  "Quantity": "0.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744441200000",
+                  "PeriodStartTime": "2025-04-12T07:00:00Z",
+                  "Quantity": "2.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744444800000",
+                  "PeriodStartTime": "2025-04-12T08:00:00Z",
+                  "Quantity": "2.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744448400000",
+                  "PeriodStartTime": "2025-04-12T09:00:00Z",
+                  "Quantity": "0.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744452000000",
+                  "PeriodStartTime": "2025-04-12T10:00:00Z",
+                  "Quantity": "0.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744455600000",
+                  "PeriodStartTime": "2025-04-12T11:00:00Z",
+                  "Quantity": "0.680000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744459200000",
+                  "PeriodStartTime": "2025-04-12T12:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744462800000",
+                  "PeriodStartTime": "2025-04-12T13:00:00Z",
+                  "Quantity": "0.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744466400000",
+                  "PeriodStartTime": "2025-04-12T14:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744470000000",
+                  "PeriodStartTime": "2025-04-12T15:00:00Z",
+                  "Quantity": "4.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744473600000",
+                  "PeriodStartTime": "2025-04-12T16:00:00Z",
+                  "Quantity": "3.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744477200000",
+                  "PeriodStartTime": "2025-04-12T17:00:00Z",
+                  "Quantity": "4.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744480800000",
+                  "PeriodStartTime": "2025-04-12T18:00:00Z",
+                  "Quantity": "7.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744484400000",
+                  "PeriodStartTime": "2025-04-12T19:00:00Z",
+                  "Quantity": "8.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744488000000",
+                  "PeriodStartTime": "2025-04-12T20:00:00Z",
+                  "Quantity": "7.320000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744491600000",
+                  "PeriodStartTime": "2025-04-12T21:00:00Z",
+                  "Quantity": "6.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744495200000",
+                  "PeriodStartTime": "2025-04-12T22:00:00Z",
+                  "Quantity": "4.360000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744498800000",
+                  "PeriodStartTime": "2025-04-12T23:00:00Z",
+                  "Quantity": "1.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744502400000",
+                  "PeriodStartTime": "2025-04-13T00:00:00Z",
+                  "Quantity": "1.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744506000000",
+                  "PeriodStartTime": "2025-04-13T01:00:00Z",
+                  "Quantity": "2.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744509600000",
+                  "PeriodStartTime": "2025-04-13T02:00:00Z",
+                  "Quantity": "0.880000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744513200000",
+                  "PeriodStartTime": "2025-04-13T03:00:00Z",
+                  "Quantity": "1.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744516800000",
+                  "PeriodStartTime": "2025-04-13T04:00:00Z",
+                  "Quantity": "1.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744520400000",
+                  "PeriodStartTime": "2025-04-13T05:00:00Z",
+                  "Quantity": "1.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744524000000",
+                  "PeriodStartTime": "2025-04-13T06:00:00Z",
+                  "Quantity": "1.890000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744527600000",
+                  "PeriodStartTime": "2025-04-13T07:00:00Z",
+                  "Quantity": "1.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744531200000",
+                  "PeriodStartTime": "2025-04-13T08:00:00Z",
+                  "Quantity": "1.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744534800000",
+                  "PeriodStartTime": "2025-04-13T09:00:00Z",
+                  "Quantity": "0.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744538400000",
+                  "PeriodStartTime": "2025-04-13T10:00:00Z",
+                  "Quantity": "2.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744542000000",
+                  "PeriodStartTime": "2025-04-13T11:00:00Z",
+                  "Quantity": "2.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744545600000",
+                  "PeriodStartTime": "2025-04-13T12:00:00Z",
+                  "Quantity": "2.340000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744549200000",
+                  "PeriodStartTime": "2025-04-13T13:00:00Z",
+                  "Quantity": "0.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744552800000",
+                  "PeriodStartTime": "2025-04-13T14:00:00Z",
+                  "Quantity": "0.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744556400000",
+                  "PeriodStartTime": "2025-04-13T15:00:00Z",
+                  "Quantity": "0.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744560000000",
+                  "PeriodStartTime": "2025-04-13T16:00:00Z",
+                  "Quantity": "3.290000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744563600000",
+                  "PeriodStartTime": "2025-04-13T17:00:00Z",
+                  "Quantity": "2.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744567200000",
+                  "PeriodStartTime": "2025-04-13T18:00:00Z",
+                  "Quantity": "1.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744570800000",
+                  "PeriodStartTime": "2025-04-13T19:00:00Z",
+                  "Quantity": "2.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744574400000",
+                  "PeriodStartTime": "2025-04-13T20:00:00Z",
+                  "Quantity": "2.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744578000000",
+                  "PeriodStartTime": "2025-04-13T21:00:00Z",
+                  "Quantity": "4.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744581600000",
+                  "PeriodStartTime": "2025-04-13T22:00:00Z",
+                  "Quantity": "3.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744585200000",
+                  "PeriodStartTime": "2025-04-13T23:00:00Z",
+                  "Quantity": "3.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744588800000",
+                  "PeriodStartTime": "2025-04-14T00:00:00Z",
+                  "Quantity": "3.860000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744592400000",
+                  "PeriodStartTime": "2025-04-14T01:00:00Z",
+                  "Quantity": "2.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744596000000",
+                  "PeriodStartTime": "2025-04-14T02:00:00Z",
+                  "Quantity": "1.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744599600000",
+                  "PeriodStartTime": "2025-04-14T03:00:00Z",
+                  "Quantity": "0.970000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744603200000",
+                  "PeriodStartTime": "2025-04-14T04:00:00Z",
+                  "Quantity": "1.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744606800000",
+                  "PeriodStartTime": "2025-04-14T05:00:00Z",
+                  "Quantity": "0.720000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744610400000",
+                  "PeriodStartTime": "2025-04-14T06:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744614000000",
+                  "PeriodStartTime": "2025-04-14T07:00:00Z",
+                  "Quantity": "0.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744617600000",
+                  "PeriodStartTime": "2025-04-14T08:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744621200000",
+                  "PeriodStartTime": "2025-04-14T09:00:00Z",
+                  "Quantity": "2.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744624800000",
+                  "PeriodStartTime": "2025-04-14T10:00:00Z",
+                  "Quantity": "1.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744628400000",
+                  "PeriodStartTime": "2025-04-14T11:00:00Z",
+                  "Quantity": "0.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744632000000",
+                  "PeriodStartTime": "2025-04-14T12:00:00Z",
+                  "Quantity": "0.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744635600000",
+                  "PeriodStartTime": "2025-04-14T13:00:00Z",
+                  "Quantity": "0.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744639200000",
+                  "PeriodStartTime": "2025-04-14T14:00:00Z",
+                  "Quantity": "1.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744642800000",
+                  "PeriodStartTime": "2025-04-14T15:00:00Z",
+                  "Quantity": "1.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744646400000",
+                  "PeriodStartTime": "2025-04-14T16:00:00Z",
+                  "Quantity": "1.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744650000000",
+                  "PeriodStartTime": "2025-04-14T17:00:00Z",
+                  "Quantity": "1.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744653600000",
+                  "PeriodStartTime": "2025-04-14T18:00:00Z",
+                  "Quantity": "0.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744657200000",
+                  "PeriodStartTime": "2025-04-14T19:00:00Z",
+                  "Quantity": "4.500000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744660800000",
+                  "PeriodStartTime": "2025-04-14T20:00:00Z",
+                  "Quantity": "3.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744664400000",
+                  "PeriodStartTime": "2025-04-14T21:00:00Z",
+                  "Quantity": "4.250000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744668000000",
+                  "PeriodStartTime": "2025-04-14T22:00:00Z",
+                  "Quantity": "2.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744671600000",
+                  "PeriodStartTime": "2025-04-14T23:00:00Z",
+                  "Quantity": "1.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744675200000",
+                  "PeriodStartTime": "2025-04-15T00:00:00Z",
+                  "Quantity": "2.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744678800000",
+                  "PeriodStartTime": "2025-04-15T01:00:00Z",
+                  "Quantity": "0.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744682400000",
+                  "PeriodStartTime": "2025-04-15T02:00:00Z",
+                  "Quantity": "2.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744686000000",
+                  "PeriodStartTime": "2025-04-15T03:00:00Z",
+                  "Quantity": "2.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744689600000",
+                  "PeriodStartTime": "2025-04-15T04:00:00Z",
+                  "Quantity": "1.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744693200000",
+                  "PeriodStartTime": "2025-04-15T05:00:00Z",
+                  "Quantity": "1.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744696800000",
+                  "PeriodStartTime": "2025-04-15T06:00:00Z",
+                  "Quantity": "0.340000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744700400000",
+                  "PeriodStartTime": "2025-04-15T07:00:00Z",
+                  "Quantity": "1.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744704000000",
+                  "PeriodStartTime": "2025-04-15T08:00:00Z",
+                  "Quantity": "0.860000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744707600000",
+                  "PeriodStartTime": "2025-04-15T09:00:00Z",
+                  "Quantity": "1.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744711200000",
+                  "PeriodStartTime": "2025-04-15T10:00:00Z",
+                  "Quantity": "1.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744714800000",
+                  "PeriodStartTime": "2025-04-15T11:00:00Z",
+                  "Quantity": "0.720000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744718400000",
+                  "PeriodStartTime": "2025-04-15T12:00:00Z",
+                  "Quantity": "0.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744722000000",
+                  "PeriodStartTime": "2025-04-15T13:00:00Z",
+                  "Quantity": "0.960000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744725600000",
+                  "PeriodStartTime": "2025-04-15T14:00:00Z",
+                  "Quantity": "1.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744729200000",
+                  "PeriodStartTime": "2025-04-15T15:00:00Z",
+                  "Quantity": "1.390000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744732800000",
+                  "PeriodStartTime": "2025-04-15T16:00:00Z",
+                  "Quantity": "1.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744736400000",
+                  "PeriodStartTime": "2025-04-15T17:00:00Z",
+                  "Quantity": "1.290000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744740000000",
+                  "PeriodStartTime": "2025-04-15T18:00:00Z",
+                  "Quantity": "0.840000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744743600000",
+                  "PeriodStartTime": "2025-04-15T19:00:00Z",
+                  "Quantity": "3.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744747200000",
+                  "PeriodStartTime": "2025-04-15T20:00:00Z",
+                  "Quantity": "4.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744750800000",
+                  "PeriodStartTime": "2025-04-15T21:00:00Z",
+                  "Quantity": "4.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744754400000",
+                  "PeriodStartTime": "2025-04-15T22:00:00Z",
+                  "Quantity": "3.510000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744758000000",
+                  "PeriodStartTime": "2025-04-15T23:00:00Z",
+                  "Quantity": "1.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744761600000",
+                  "PeriodStartTime": "2025-04-16T00:00:00Z",
+                  "Quantity": "2.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744765200000",
+                  "PeriodStartTime": "2025-04-16T01:00:00Z",
+                  "Quantity": "1.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744768800000",
+                  "PeriodStartTime": "2025-04-16T02:00:00Z",
+                  "Quantity": "2.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744772400000",
+                  "PeriodStartTime": "2025-04-16T03:00:00Z",
+                  "Quantity": "1.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744776000000",
+                  "PeriodStartTime": "2025-04-16T04:00:00Z",
+                  "Quantity": "1.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744779600000",
+                  "PeriodStartTime": "2025-04-16T05:00:00Z",
+                  "Quantity": "0.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744783200000",
+                  "PeriodStartTime": "2025-04-16T06:00:00Z",
+                  "Quantity": "1.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744786800000",
+                  "PeriodStartTime": "2025-04-16T07:00:00Z",
+                  "Quantity": "1.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744790400000",
+                  "PeriodStartTime": "2025-04-16T08:00:00Z",
+                  "Quantity": "1.320000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744794000000",
+                  "PeriodStartTime": "2025-04-16T09:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744797600000",
+                  "PeriodStartTime": "2025-04-16T10:00:00Z",
+                  "Quantity": "0.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744801200000",
+                  "PeriodStartTime": "2025-04-16T11:00:00Z",
+                  "Quantity": "0.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744804800000",
+                  "PeriodStartTime": "2025-04-16T12:00:00Z",
+                  "Quantity": "0.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744808400000",
+                  "PeriodStartTime": "2025-04-16T13:00:00Z",
+                  "Quantity": "1.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744812000000",
+                  "PeriodStartTime": "2025-04-16T14:00:00Z",
+                  "Quantity": "0.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744815600000",
+                  "PeriodStartTime": "2025-04-16T15:00:00Z",
+                  "Quantity": "1.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744819200000",
+                  "PeriodStartTime": "2025-04-16T16:00:00Z",
+                  "Quantity": "1.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744822800000",
+                  "PeriodStartTime": "2025-04-16T17:00:00Z",
+                  "Quantity": "0.550000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744826400000",
+                  "PeriodStartTime": "2025-04-16T18:00:00Z",
+                  "Quantity": "1.150000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744830000000",
+                  "PeriodStartTime": "2025-04-16T19:00:00Z",
+                  "Quantity": "4.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744833600000",
+                  "PeriodStartTime": "2025-04-16T20:00:00Z",
+                  "Quantity": "4.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744837200000",
+                  "PeriodStartTime": "2025-04-16T21:00:00Z",
+                  "Quantity": "4.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744840800000",
+                  "PeriodStartTime": "2025-04-16T22:00:00Z",
+                  "Quantity": "1.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744844400000",
+                  "PeriodStartTime": "2025-04-16T23:00:00Z",
+                  "Quantity": "1.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744848000000",
+                  "PeriodStartTime": "2025-04-17T00:00:00Z",
+                  "Quantity": "1.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744851600000",
+                  "PeriodStartTime": "2025-04-17T01:00:00Z",
+                  "Quantity": "1.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744855200000",
+                  "PeriodStartTime": "2025-04-17T02:00:00Z",
+                  "Quantity": "0.360000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744858800000",
+                  "PeriodStartTime": "2025-04-17T03:00:00Z",
+                  "Quantity": "0.680000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744862400000",
+                  "PeriodStartTime": "2025-04-17T04:00:00Z",
+                  "Quantity": "0.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744866000000",
+                  "PeriodStartTime": "2025-04-17T05:00:00Z",
+                  "Quantity": "0.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744869600000",
+                  "PeriodStartTime": "2025-04-17T06:00:00Z",
+                  "Quantity": "0.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744873200000",
+                  "PeriodStartTime": "2025-04-17T07:00:00Z",
+                  "Quantity": "1.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744876800000",
+                  "PeriodStartTime": "2025-04-17T08:00:00Z",
+                  "Quantity": "0.570000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744880400000",
+                  "PeriodStartTime": "2025-04-17T09:00:00Z",
+                  "Quantity": "0.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744884000000",
+                  "PeriodStartTime": "2025-04-17T10:00:00Z",
+                  "Quantity": "1.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744887600000",
+                  "PeriodStartTime": "2025-04-17T11:00:00Z",
+                  "Quantity": "0.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744891200000",
+                  "PeriodStartTime": "2025-04-17T12:00:00Z",
+                  "Quantity": "1.040000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744894800000",
+                  "PeriodStartTime": "2025-04-17T13:00:00Z",
+                  "Quantity": "1.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744898400000",
+                  "PeriodStartTime": "2025-04-17T14:00:00Z",
+                  "Quantity": "0.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744902000000",
+                  "PeriodStartTime": "2025-04-17T15:00:00Z",
+                  "Quantity": "1.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744905600000",
+                  "PeriodStartTime": "2025-04-17T16:00:00Z",
+                  "Quantity": "0.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744909200000",
+                  "PeriodStartTime": "2025-04-17T17:00:00Z",
+                  "Quantity": "0.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744912800000",
+                  "PeriodStartTime": "2025-04-17T18:00:00Z",
+                  "Quantity": "0.720000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744916400000",
+                  "PeriodStartTime": "2025-04-17T19:00:00Z",
+                  "Quantity": "1.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744920000000",
+                  "PeriodStartTime": "2025-04-17T20:00:00Z",
+                  "Quantity": "3.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744923600000",
+                  "PeriodStartTime": "2025-04-17T21:00:00Z",
+                  "Quantity": "2.550000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744927200000",
+                  "PeriodStartTime": "2025-04-17T22:00:00Z",
+                  "Quantity": "2.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744930800000",
+                  "PeriodStartTime": "2025-04-17T23:00:00Z",
+                  "Quantity": "2.250000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744934400000",
+                  "PeriodStartTime": "2025-04-18T00:00:00Z",
+                  "Quantity": "2.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744938000000",
+                  "PeriodStartTime": "2025-04-18T01:00:00Z",
+                  "Quantity": "1.860000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744941600000",
+                  "PeriodStartTime": "2025-04-18T02:00:00Z",
+                  "Quantity": "2.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744945200000",
+                  "PeriodStartTime": "2025-04-18T03:00:00Z",
+                  "Quantity": "1.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744948800000",
+                  "PeriodStartTime": "2025-04-18T04:00:00Z",
+                  "Quantity": "0.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744952400000",
+                  "PeriodStartTime": "2025-04-18T05:00:00Z",
+                  "Quantity": "0.640000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744956000000",
+                  "PeriodStartTime": "2025-04-18T06:00:00Z",
+                  "Quantity": "0.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744959600000",
+                  "PeriodStartTime": "2025-04-18T07:00:00Z",
+                  "Quantity": "2.840000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744963200000",
+                  "PeriodStartTime": "2025-04-18T08:00:00Z",
+                  "Quantity": "3.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744966800000",
+                  "PeriodStartTime": "2025-04-18T09:00:00Z",
+                  "Quantity": "2.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744970400000",
+                  "PeriodStartTime": "2025-04-18T10:00:00Z",
+                  "Quantity": "0.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744974000000",
+                  "PeriodStartTime": "2025-04-18T11:00:00Z",
+                  "Quantity": "0.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744977600000",
+                  "PeriodStartTime": "2025-04-18T12:00:00Z",
+                  "Quantity": "1.500000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744981200000",
+                  "PeriodStartTime": "2025-04-18T13:00:00Z",
+                  "Quantity": "5.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744984800000",
+                  "PeriodStartTime": "2025-04-18T14:00:00Z",
+                  "Quantity": "5.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744988400000",
+                  "PeriodStartTime": "2025-04-18T15:00:00Z",
+                  "Quantity": "7.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744992000000",
+                  "PeriodStartTime": "2025-04-18T16:00:00Z",
+                  "Quantity": "4.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744995600000",
+                  "PeriodStartTime": "2025-04-18T17:00:00Z",
+                  "Quantity": "1.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1744999200000",
+                  "PeriodStartTime": "2025-04-18T18:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745002800000",
+                  "PeriodStartTime": "2025-04-18T19:00:00Z",
+                  "Quantity": "1.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745006400000",
+                  "PeriodStartTime": "2025-04-18T20:00:00Z",
+                  "Quantity": "2.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745010000000",
+                  "PeriodStartTime": "2025-04-18T21:00:00Z",
+                  "Quantity": "3.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745013600000",
+                  "PeriodStartTime": "2025-04-18T22:00:00Z",
+                  "Quantity": "4.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745017200000",
+                  "PeriodStartTime": "2025-04-18T23:00:00Z",
+                  "Quantity": "1.320000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745020800000",
+                  "PeriodStartTime": "2025-04-19T00:00:00Z",
+                  "Quantity": "2.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745024400000",
+                  "PeriodStartTime": "2025-04-19T01:00:00Z",
+                  "Quantity": "1.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745028000000",
+                  "PeriodStartTime": "2025-04-19T02:00:00Z",
+                  "Quantity": "0.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745031600000",
+                  "PeriodStartTime": "2025-04-19T03:00:00Z",
+                  "Quantity": "0.910000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745035200000",
+                  "PeriodStartTime": "2025-04-19T04:00:00Z",
+                  "Quantity": "0.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745038800000",
+                  "PeriodStartTime": "2025-04-19T05:00:00Z",
+                  "Quantity": "0.340000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745042400000",
+                  "PeriodStartTime": "2025-04-19T06:00:00Z",
+                  "Quantity": "1.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745046000000",
+                  "PeriodStartTime": "2025-04-19T07:00:00Z",
+                  "Quantity": "1.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745049600000",
+                  "PeriodStartTime": "2025-04-19T08:00:00Z",
+                  "Quantity": "3.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745053200000",
+                  "PeriodStartTime": "2025-04-19T09:00:00Z",
+                  "Quantity": "0.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745056800000",
+                  "PeriodStartTime": "2025-04-19T10:00:00Z",
+                  "Quantity": "0.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745060400000",
+                  "PeriodStartTime": "2025-04-19T11:00:00Z",
+                  "Quantity": "0.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745064000000",
+                  "PeriodStartTime": "2025-04-19T12:00:00Z",
+                  "Quantity": "0.320000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745067600000",
+                  "PeriodStartTime": "2025-04-19T13:00:00Z",
+                  "Quantity": "0.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745071200000",
+                  "PeriodStartTime": "2025-04-19T14:00:00Z",
+                  "Quantity": "0.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745074800000",
+                  "PeriodStartTime": "2025-04-19T15:00:00Z",
+                  "Quantity": "0.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745078400000",
+                  "PeriodStartTime": "2025-04-19T16:00:00Z",
+                  "Quantity": "0.200000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745082000000",
+                  "PeriodStartTime": "2025-04-19T17:00:00Z",
+                  "Quantity": "0.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745085600000",
+                  "PeriodStartTime": "2025-04-19T18:00:00Z",
+                  "Quantity": "0.500000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745089200000",
+                  "PeriodStartTime": "2025-04-19T19:00:00Z",
+                  "Quantity": "2.160000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745092800000",
+                  "PeriodStartTime": "2025-04-19T20:00:00Z",
+                  "Quantity": "2.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745096400000",
+                  "PeriodStartTime": "2025-04-19T21:00:00Z",
+                  "Quantity": "2.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745100000000",
+                  "PeriodStartTime": "2025-04-19T22:00:00Z",
+                  "Quantity": "3.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745103600000",
+                  "PeriodStartTime": "2025-04-19T23:00:00Z",
+                  "Quantity": "4.980000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745107200000",
+                  "PeriodStartTime": "2025-04-20T00:00:00Z",
+                  "Quantity": "4.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745110800000",
+                  "PeriodStartTime": "2025-04-20T01:00:00Z",
+                  "Quantity": "3.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745114400000",
+                  "PeriodStartTime": "2025-04-20T02:00:00Z",
+                  "Quantity": "2.360000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745118000000",
+                  "PeriodStartTime": "2025-04-20T03:00:00Z",
+                  "Quantity": "1.990000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745121600000",
+                  "PeriodStartTime": "2025-04-20T04:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745125200000",
+                  "PeriodStartTime": "2025-04-20T05:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745128800000",
+                  "PeriodStartTime": "2025-04-20T06:00:00Z",
+                  "Quantity": "0.910000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745132400000",
+                  "PeriodStartTime": "2025-04-20T07:00:00Z",
+                  "Quantity": "1.030000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745136000000",
+                  "PeriodStartTime": "2025-04-20T08:00:00Z",
+                  "Quantity": "1.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745139600000",
+                  "PeriodStartTime": "2025-04-20T09:00:00Z",
+                  "Quantity": "1.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745143200000",
+                  "PeriodStartTime": "2025-04-20T10:00:00Z",
+                  "Quantity": "2.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745146800000",
+                  "PeriodStartTime": "2025-04-20T11:00:00Z",
+                  "Quantity": "2.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745150400000",
+                  "PeriodStartTime": "2025-04-20T12:00:00Z",
+                  "Quantity": "3.690000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745154000000",
+                  "PeriodStartTime": "2025-04-20T13:00:00Z",
+                  "Quantity": "1.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745157600000",
+                  "PeriodStartTime": "2025-04-20T14:00:00Z",
+                  "Quantity": "0.650000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745161200000",
+                  "PeriodStartTime": "2025-04-20T15:00:00Z",
+                  "Quantity": "0.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745164800000",
+                  "PeriodStartTime": "2025-04-20T16:00:00Z",
+                  "Quantity": "1.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745168400000",
+                  "PeriodStartTime": "2025-04-20T17:00:00Z",
+                  "Quantity": "1.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745172000000",
+                  "PeriodStartTime": "2025-04-20T18:00:00Z",
+                  "Quantity": "2.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745175600000",
+                  "PeriodStartTime": "2025-04-20T19:00:00Z",
+                  "Quantity": "4.480000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745179200000",
+                  "PeriodStartTime": "2025-04-20T20:00:00Z",
+                  "Quantity": "4.170000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745182800000",
+                  "PeriodStartTime": "2025-04-20T21:00:00Z",
+                  "Quantity": "4.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745186400000",
+                  "PeriodStartTime": "2025-04-20T22:00:00Z",
+                  "Quantity": "1.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745190000000",
+                  "PeriodStartTime": "2025-04-20T23:00:00Z",
+                  "Quantity": "1.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745193600000",
+                  "PeriodStartTime": "2025-04-21T00:00:00Z",
+                  "Quantity": "2.690000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745197200000",
+                  "PeriodStartTime": "2025-04-21T01:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745200800000",
+                  "PeriodStartTime": "2025-04-21T02:00:00Z",
+                  "Quantity": "3.130000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745204400000",
+                  "PeriodStartTime": "2025-04-21T03:00:00Z",
+                  "Quantity": "2.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745208000000",
+                  "PeriodStartTime": "2025-04-21T04:00:00Z",
+                  "Quantity": "0.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745211600000",
+                  "PeriodStartTime": "2025-04-21T05:00:00Z",
+                  "Quantity": "0.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745215200000",
+                  "PeriodStartTime": "2025-04-21T06:00:00Z",
+                  "Quantity": "1.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745218800000",
+                  "PeriodStartTime": "2025-04-21T07:00:00Z",
+                  "Quantity": "3.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745222400000",
+                  "PeriodStartTime": "2025-04-21T08:00:00Z",
+                  "Quantity": "2.500000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745226000000",
+                  "PeriodStartTime": "2025-04-21T09:00:00Z",
+                  "Quantity": "4.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745229600000",
+                  "PeriodStartTime": "2025-04-21T10:00:00Z",
+                  "Quantity": "2.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745233200000",
+                  "PeriodStartTime": "2025-04-21T11:00:00Z",
+                  "Quantity": "3.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745236800000",
+                  "PeriodStartTime": "2025-04-21T12:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745240400000",
+                  "PeriodStartTime": "2025-04-21T13:00:00Z",
+                  "Quantity": "1.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745244000000",
+                  "PeriodStartTime": "2025-04-21T14:00:00Z",
+                  "Quantity": "1.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745247600000",
+                  "PeriodStartTime": "2025-04-21T15:00:00Z",
+                  "Quantity": "1.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745251200000",
+                  "PeriodStartTime": "2025-04-21T16:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745254800000",
+                  "PeriodStartTime": "2025-04-21T17:00:00Z",
+                  "Quantity": "1.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745258400000",
+                  "PeriodStartTime": "2025-04-21T18:00:00Z",
+                  "Quantity": "1.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745262000000",
+                  "PeriodStartTime": "2025-04-21T19:00:00Z",
+                  "Quantity": "3.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745265600000",
+                  "PeriodStartTime": "2025-04-21T20:00:00Z",
+                  "Quantity": "4.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745269200000",
+                  "PeriodStartTime": "2025-04-21T21:00:00Z",
+                  "Quantity": "4.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745272800000",
+                  "PeriodStartTime": "2025-04-21T22:00:00Z",
+                  "Quantity": "1.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745276400000",
+                  "PeriodStartTime": "2025-04-21T23:00:00Z",
+                  "Quantity": "1.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745280000000",
+                  "PeriodStartTime": "2025-04-22T00:00:00Z",
+                  "Quantity": "2.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745283600000",
+                  "PeriodStartTime": "2025-04-22T01:00:00Z",
+                  "Quantity": "2.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745287200000",
+                  "PeriodStartTime": "2025-04-22T02:00:00Z",
+                  "Quantity": "2.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745290800000",
+                  "PeriodStartTime": "2025-04-22T03:00:00Z",
+                  "Quantity": "1.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745294400000",
+                  "PeriodStartTime": "2025-04-22T04:00:00Z",
+                  "Quantity": "1.290000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745298000000",
+                  "PeriodStartTime": "2025-04-22T05:00:00Z",
+                  "Quantity": "1.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745301600000",
+                  "PeriodStartTime": "2025-04-22T06:00:00Z",
+                  "Quantity": "1.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745305200000",
+                  "PeriodStartTime": "2025-04-22T07:00:00Z",
+                  "Quantity": "0.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745308800000",
+                  "PeriodStartTime": "2025-04-22T08:00:00Z",
+                  "Quantity": "0.640000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745312400000",
+                  "PeriodStartTime": "2025-04-22T09:00:00Z",
+                  "Quantity": "0.510000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745316000000",
+                  "PeriodStartTime": "2025-04-22T10:00:00Z",
+                  "Quantity": "0.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745319600000",
+                  "PeriodStartTime": "2025-04-22T11:00:00Z",
+                  "Quantity": "0.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745323200000",
+                  "PeriodStartTime": "2025-04-22T12:00:00Z",
+                  "Quantity": "0.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745326800000",
+                  "PeriodStartTime": "2025-04-22T13:00:00Z",
+                  "Quantity": "0.320000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745330400000",
+                  "PeriodStartTime": "2025-04-22T14:00:00Z",
+                  "Quantity": "0.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745334000000",
+                  "PeriodStartTime": "2025-04-22T15:00:00Z",
+                  "Quantity": "0.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745337600000",
+                  "PeriodStartTime": "2025-04-22T16:00:00Z",
+                  "Quantity": "1.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745341200000",
+                  "PeriodStartTime": "2025-04-22T17:00:00Z",
+                  "Quantity": "0.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745344800000",
+                  "PeriodStartTime": "2025-04-22T18:00:00Z",
+                  "Quantity": "0.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745348400000",
+                  "PeriodStartTime": "2025-04-22T19:00:00Z",
+                  "Quantity": "3.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745352000000",
+                  "PeriodStartTime": "2025-04-22T20:00:00Z",
+                  "Quantity": "4.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745355600000",
+                  "PeriodStartTime": "2025-04-22T21:00:00Z",
+                  "Quantity": "4.250000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745359200000",
+                  "PeriodStartTime": "2025-04-22T22:00:00Z",
+                  "Quantity": "1.680000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745362800000",
+                  "PeriodStartTime": "2025-04-22T23:00:00Z",
+                  "Quantity": "2.200000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745366400000",
+                  "PeriodStartTime": "2025-04-23T00:00:00Z",
+                  "Quantity": "1.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745370000000",
+                  "PeriodStartTime": "2025-04-23T01:00:00Z",
+                  "Quantity": "1.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745373600000",
+                  "PeriodStartTime": "2025-04-23T02:00:00Z",
+                  "Quantity": "0.500000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745377200000",
+                  "PeriodStartTime": "2025-04-23T03:00:00Z",
+                  "Quantity": "1.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745380800000",
+                  "PeriodStartTime": "2025-04-23T04:00:00Z",
+                  "Quantity": "2.140000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745384400000",
+                  "PeriodStartTime": "2025-04-23T05:00:00Z",
+                  "Quantity": "0.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745388000000",
+                  "PeriodStartTime": "2025-04-23T06:00:00Z",
+                  "Quantity": "0.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745391600000",
+                  "PeriodStartTime": "2025-04-23T07:00:00Z",
+                  "Quantity": "0.340000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745395200000",
+                  "PeriodStartTime": "2025-04-23T08:00:00Z",
+                  "Quantity": "0.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745398800000",
+                  "PeriodStartTime": "2025-04-23T09:00:00Z",
+                  "Quantity": "0.360000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745402400000",
+                  "PeriodStartTime": "2025-04-23T10:00:00Z",
+                  "Quantity": "0.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745406000000",
+                  "PeriodStartTime": "2025-04-23T11:00:00Z",
+                  "Quantity": "3.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745409600000",
+                  "PeriodStartTime": "2025-04-23T12:00:00Z",
+                  "Quantity": "2.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745413200000",
+                  "PeriodStartTime": "2025-04-23T13:00:00Z",
+                  "Quantity": "2.690000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745416800000",
+                  "PeriodStartTime": "2025-04-23T14:00:00Z",
+                  "Quantity": "1.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745420400000",
+                  "PeriodStartTime": "2025-04-23T15:00:00Z",
+                  "Quantity": "1.600000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745424000000",
+                  "PeriodStartTime": "2025-04-23T16:00:00Z",
+                  "Quantity": "0.900000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745427600000",
+                  "PeriodStartTime": "2025-04-23T17:00:00Z",
+                  "Quantity": "3.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745431200000",
+                  "PeriodStartTime": "2025-04-23T18:00:00Z",
+                  "Quantity": "1.300000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745434800000",
+                  "PeriodStartTime": "2025-04-23T19:00:00Z",
+                  "Quantity": "2.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745438400000",
+                  "PeriodStartTime": "2025-04-23T20:00:00Z",
+                  "Quantity": "4.620000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745442000000",
+                  "PeriodStartTime": "2025-04-23T21:00:00Z",
+                  "Quantity": "4.510000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745445600000",
+                  "PeriodStartTime": "2025-04-23T22:00:00Z",
+                  "Quantity": "4.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745449200000",
+                  "PeriodStartTime": "2025-04-23T23:00:00Z",
+                  "Quantity": "4.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745452800000",
+                  "PeriodStartTime": "2025-04-24T00:00:00Z",
+                  "Quantity": "2.480000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745456400000",
+                  "PeriodStartTime": "2025-04-24T01:00:00Z",
+                  "Quantity": "1.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745460000000",
+                  "PeriodStartTime": "2025-04-24T02:00:00Z",
+                  "Quantity": "0.830000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745463600000",
+                  "PeriodStartTime": "2025-04-24T03:00:00Z",
+                  "Quantity": "4.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745467200000",
+                  "PeriodStartTime": "2025-04-24T04:00:00Z",
+                  "Quantity": "0.690000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745470800000",
+                  "PeriodStartTime": "2025-04-24T05:00:00Z",
+                  "Quantity": "0.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745474400000",
+                  "PeriodStartTime": "2025-04-24T06:00:00Z",
+                  "Quantity": "0.200000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745478000000",
+                  "PeriodStartTime": "2025-04-24T07:00:00Z",
+                  "Quantity": "0.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745481600000",
+                  "PeriodStartTime": "2025-04-24T08:00:00Z",
+                  "Quantity": "0.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745485200000",
+                  "PeriodStartTime": "2025-04-24T09:00:00Z",
+                  "Quantity": "0.170000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745488800000",
+                  "PeriodStartTime": "2025-04-24T10:00:00Z",
+                  "Quantity": "0.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745492400000",
+                  "PeriodStartTime": "2025-04-24T11:00:00Z",
+                  "Quantity": "0.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745496000000",
+                  "PeriodStartTime": "2025-04-24T12:00:00Z",
+                  "Quantity": "0.170000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745499600000",
+                  "PeriodStartTime": "2025-04-24T13:00:00Z",
+                  "Quantity": "0.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745503200000",
+                  "PeriodStartTime": "2025-04-24T14:00:00Z",
+                  "Quantity": "0.680000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745506800000",
+                  "PeriodStartTime": "2025-04-24T15:00:00Z",
+                  "Quantity": "0.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745510400000",
+                  "PeriodStartTime": "2025-04-24T16:00:00Z",
+                  "Quantity": "0.960000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745514000000",
+                  "PeriodStartTime": "2025-04-24T17:00:00Z",
+                  "Quantity": "0.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745517600000",
+                  "PeriodStartTime": "2025-04-24T18:00:00Z",
+                  "Quantity": "0.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745521200000",
+                  "PeriodStartTime": "2025-04-24T19:00:00Z",
+                  "Quantity": "1.880000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745524800000",
+                  "PeriodStartTime": "2025-04-24T20:00:00Z",
+                  "Quantity": "4.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745528400000",
+                  "PeriodStartTime": "2025-04-24T21:00:00Z",
+                  "Quantity": "2.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745532000000",
+                  "PeriodStartTime": "2025-04-24T22:00:00Z",
+                  "Quantity": "1.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745535600000",
+                  "PeriodStartTime": "2025-04-24T23:00:00Z",
+                  "Quantity": "1.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745539200000",
+                  "PeriodStartTime": "2025-04-25T00:00:00Z",
+                  "Quantity": "2.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745542800000",
+                  "PeriodStartTime": "2025-04-25T01:00:00Z",
+                  "Quantity": "1.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745546400000",
+                  "PeriodStartTime": "2025-04-25T02:00:00Z",
+                  "Quantity": "0.500000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745550000000",
+                  "PeriodStartTime": "2025-04-25T03:00:00Z",
+                  "Quantity": "2.200000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745553600000",
+                  "PeriodStartTime": "2025-04-25T04:00:00Z",
+                  "Quantity": "0.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745557200000",
+                  "PeriodStartTime": "2025-04-25T05:00:00Z",
+                  "Quantity": "0.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745560800000",
+                  "PeriodStartTime": "2025-04-25T06:00:00Z",
+                  "Quantity": "0.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745564400000",
+                  "PeriodStartTime": "2025-04-25T07:00:00Z",
+                  "Quantity": "0.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745568000000",
+                  "PeriodStartTime": "2025-04-25T08:00:00Z",
+                  "Quantity": "0.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745571600000",
+                  "PeriodStartTime": "2025-04-25T09:00:00Z",
+                  "Quantity": "0.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745575200000",
+                  "PeriodStartTime": "2025-04-25T10:00:00Z",
+                  "Quantity": "0.270000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745578800000",
+                  "PeriodStartTime": "2025-04-25T11:00:00Z",
+                  "Quantity": "2.130000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745582400000",
+                  "PeriodStartTime": "2025-04-25T12:00:00Z",
+                  "Quantity": "3.120000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745586000000",
+                  "PeriodStartTime": "2025-04-25T13:00:00Z",
+                  "Quantity": "1.390000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745589600000",
+                  "PeriodStartTime": "2025-04-25T14:00:00Z",
+                  "Quantity": "0.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745593200000",
+                  "PeriodStartTime": "2025-04-25T15:00:00Z",
+                  "Quantity": "0.410000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745596800000",
+                  "PeriodStartTime": "2025-04-25T16:00:00Z",
+                  "Quantity": "0.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745600400000",
+                  "PeriodStartTime": "2025-04-25T17:00:00Z",
+                  "Quantity": "1.210000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745604000000",
+                  "PeriodStartTime": "2025-04-25T18:00:00Z",
+                  "Quantity": "0.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745607600000",
+                  "PeriodStartTime": "2025-04-25T19:00:00Z",
+                  "Quantity": "1.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745611200000",
+                  "PeriodStartTime": "2025-04-25T20:00:00Z",
+                  "Quantity": "4.190000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745614800000",
+                  "PeriodStartTime": "2025-04-25T21:00:00Z",
+                  "Quantity": "8.450000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745618400000",
+                  "PeriodStartTime": "2025-04-25T22:00:00Z",
+                  "Quantity": "6.380000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745622000000",
+                  "PeriodStartTime": "2025-04-25T23:00:00Z",
+                  "Quantity": "5.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745625600000",
+                  "PeriodStartTime": "2025-04-26T00:00:00Z",
+                  "Quantity": "5.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745629200000",
+                  "PeriodStartTime": "2025-04-26T01:00:00Z",
+                  "Quantity": "4.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745632800000",
+                  "PeriodStartTime": "2025-04-26T02:00:00Z",
+                  "Quantity": "2.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745636400000",
+                  "PeriodStartTime": "2025-04-26T03:00:00Z",
+                  "Quantity": "2.030000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745640000000",
+                  "PeriodStartTime": "2025-04-26T04:00:00Z",
+                  "Quantity": "0.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745643600000",
+                  "PeriodStartTime": "2025-04-26T05:00:00Z",
+                  "Quantity": "0.660000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745647200000",
+                  "PeriodStartTime": "2025-04-26T06:00:00Z",
+                  "Quantity": "1.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745650800000",
+                  "PeriodStartTime": "2025-04-26T07:00:00Z",
+                  "Quantity": "0.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745654400000",
+                  "PeriodStartTime": "2025-04-26T08:00:00Z",
+                  "Quantity": "0.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745658000000",
+                  "PeriodStartTime": "2025-04-26T09:00:00Z",
+                  "Quantity": "2.910000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745661600000",
+                  "PeriodStartTime": "2025-04-26T10:00:00Z",
+                  "Quantity": "2.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745665200000",
+                  "PeriodStartTime": "2025-04-26T11:00:00Z",
+                  "Quantity": "2.040000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745668800000",
+                  "PeriodStartTime": "2025-04-26T12:00:00Z",
+                  "Quantity": "1.040000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745672400000",
+                  "PeriodStartTime": "2025-04-26T13:00:00Z",
+                  "Quantity": "4.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745676000000",
+                  "PeriodStartTime": "2025-04-26T14:00:00Z",
+                  "Quantity": "6.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745679600000",
+                  "PeriodStartTime": "2025-04-26T15:00:00Z",
+                  "Quantity": "8.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745683200000",
+                  "PeriodStartTime": "2025-04-26T16:00:00Z",
+                  "Quantity": "5.920000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745686800000",
+                  "PeriodStartTime": "2025-04-26T17:00:00Z",
+                  "Quantity": "1.000000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745690400000",
+                  "PeriodStartTime": "2025-04-26T18:00:00Z",
+                  "Quantity": "0.540000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745694000000",
+                  "PeriodStartTime": "2025-04-26T19:00:00Z",
+                  "Quantity": "5.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745697600000",
+                  "PeriodStartTime": "2025-04-26T20:00:00Z",
+                  "Quantity": "6.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745701200000",
+                  "PeriodStartTime": "2025-04-26T21:00:00Z",
+                  "Quantity": "6.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745704800000",
+                  "PeriodStartTime": "2025-04-26T22:00:00Z",
+                  "Quantity": "3.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745708400000",
+                  "PeriodStartTime": "2025-04-26T23:00:00Z",
+                  "Quantity": "1.180000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745712000000",
+                  "PeriodStartTime": "2025-04-27T00:00:00Z",
+                  "Quantity": "1.840000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745715600000",
+                  "PeriodStartTime": "2025-04-27T01:00:00Z",
+                  "Quantity": "1.630000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745719200000",
+                  "PeriodStartTime": "2025-04-27T02:00:00Z",
+                  "Quantity": "0.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745722800000",
+                  "PeriodStartTime": "2025-04-27T03:00:00Z",
+                  "Quantity": "1.350000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745726400000",
+                  "PeriodStartTime": "2025-04-27T04:00:00Z",
+                  "Quantity": "0.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745730000000",
+                  "PeriodStartTime": "2025-04-27T05:00:00Z",
+                  "Quantity": "0.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745733600000",
+                  "PeriodStartTime": "2025-04-27T06:00:00Z",
+                  "Quantity": "0.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745737200000",
+                  "PeriodStartTime": "2025-04-27T07:00:00Z",
+                  "Quantity": "2.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745740800000",
+                  "PeriodStartTime": "2025-04-27T08:00:00Z",
+                  "Quantity": "4.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745744400000",
+                  "PeriodStartTime": "2025-04-27T09:00:00Z",
+                  "Quantity": "3.820000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745748000000",
+                  "PeriodStartTime": "2025-04-27T10:00:00Z",
+                  "Quantity": "2.310000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745751600000",
+                  "PeriodStartTime": "2025-04-27T11:00:00Z",
+                  "Quantity": "0.260000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745755200000",
+                  "PeriodStartTime": "2025-04-27T12:00:00Z",
+                  "Quantity": "1.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745758800000",
+                  "PeriodStartTime": "2025-04-27T13:00:00Z",
+                  "Quantity": "1.280000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745762400000",
+                  "PeriodStartTime": "2025-04-27T14:00:00Z",
+                  "Quantity": "3.370000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745766000000",
+                  "PeriodStartTime": "2025-04-27T15:00:00Z",
+                  "Quantity": "1.110000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745769600000",
+                  "PeriodStartTime": "2025-04-27T16:00:00Z",
+                  "Quantity": "0.580000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745773200000",
+                  "PeriodStartTime": "2025-04-27T17:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745776800000",
+                  "PeriodStartTime": "2025-04-27T18:00:00Z",
+                  "Quantity": "2.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745780400000",
+                  "PeriodStartTime": "2025-04-27T19:00:00Z",
+                  "Quantity": "2.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745784000000",
+                  "PeriodStartTime": "2025-04-27T20:00:00Z",
+                  "Quantity": "4.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745787600000",
+                  "PeriodStartTime": "2025-04-27T21:00:00Z",
+                  "Quantity": "4.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745791200000",
+                  "PeriodStartTime": "2025-04-27T22:00:00Z",
+                  "Quantity": "4.060000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745794800000",
+                  "PeriodStartTime": "2025-04-27T23:00:00Z",
+                  "Quantity": "3.080000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745798400000",
+                  "PeriodStartTime": "2025-04-28T00:00:00Z",
+                  "Quantity": "2.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745802000000",
+                  "PeriodStartTime": "2025-04-28T01:00:00Z",
+                  "Quantity": "1.430000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745805600000",
+                  "PeriodStartTime": "2025-04-28T02:00:00Z",
+                  "Quantity": "1.450000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745809200000",
+                  "PeriodStartTime": "2025-04-28T03:00:00Z",
+                  "Quantity": "3.730000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745812800000",
+                  "PeriodStartTime": "2025-04-28T04:00:00Z",
+                  "Quantity": "1.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745816400000",
+                  "PeriodStartTime": "2025-04-28T05:00:00Z",
+                  "Quantity": "0.880000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745820000000",
+                  "PeriodStartTime": "2025-04-28T06:00:00Z",
+                  "Quantity": "0.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745823600000",
+                  "PeriodStartTime": "2025-04-28T07:00:00Z",
+                  "Quantity": "0.620000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745827200000",
+                  "PeriodStartTime": "2025-04-28T08:00:00Z",
+                  "Quantity": "0.520000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745830800000",
+                  "PeriodStartTime": "2025-04-28T09:00:00Z",
+                  "Quantity": "1.090000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745834400000",
+                  "PeriodStartTime": "2025-04-28T10:00:00Z",
+                  "Quantity": "0.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745838000000",
+                  "PeriodStartTime": "2025-04-28T11:00:00Z",
+                  "Quantity": "1.780000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745841600000",
+                  "PeriodStartTime": "2025-04-28T12:00:00Z",
+                  "Quantity": "1.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745845200000",
+                  "PeriodStartTime": "2025-04-28T13:00:00Z",
+                  "Quantity": "0.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745848800000",
+                  "PeriodStartTime": "2025-04-28T14:00:00Z",
+                  "Quantity": "0.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745852400000",
+                  "PeriodStartTime": "2025-04-28T15:00:00Z",
+                  "Quantity": "0.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745856000000",
+                  "PeriodStartTime": "2025-04-28T16:00:00Z",
+                  "Quantity": "0.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745859600000",
+                  "PeriodStartTime": "2025-04-28T17:00:00Z",
+                  "Quantity": "0.800000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745863200000",
+                  "PeriodStartTime": "2025-04-28T18:00:00Z",
+                  "Quantity": "0.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745866800000",
+                  "PeriodStartTime": "2025-04-28T19:00:00Z",
+                  "Quantity": "4.750000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745870400000",
+                  "PeriodStartTime": "2025-04-28T20:00:00Z",
+                  "Quantity": "4.510000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745874000000",
+                  "PeriodStartTime": "2025-04-28T21:00:00Z",
+                  "Quantity": "3.790000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745877600000",
+                  "PeriodStartTime": "2025-04-28T22:00:00Z",
+                  "Quantity": "1.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745881200000",
+                  "PeriodStartTime": "2025-04-28T23:00:00Z",
+                  "Quantity": "1.680000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745884800000",
+                  "PeriodStartTime": "2025-04-29T00:00:00Z",
+                  "Quantity": "2.070000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745888400000",
+                  "PeriodStartTime": "2025-04-29T01:00:00Z",
+                  "Quantity": "1.860000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745892000000",
+                  "PeriodStartTime": "2025-04-29T02:00:00Z",
+                  "Quantity": "0.850000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745895600000",
+                  "PeriodStartTime": "2025-04-29T03:00:00Z",
+                  "Quantity": "2.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745899200000",
+                  "PeriodStartTime": "2025-04-29T04:00:00Z",
+                  "Quantity": "1.930000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745902800000",
+                  "PeriodStartTime": "2025-04-29T05:00:00Z",
+                  "Quantity": "0.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745906400000",
+                  "PeriodStartTime": "2025-04-29T06:00:00Z",
+                  "Quantity": "0.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745910000000",
+                  "PeriodStartTime": "2025-04-29T07:00:00Z",
+                  "Quantity": "0.940000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745913600000",
+                  "PeriodStartTime": "2025-04-29T08:00:00Z",
+                  "Quantity": "1.010000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745917200000",
+                  "PeriodStartTime": "2025-04-29T09:00:00Z",
+                  "Quantity": "0.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745920800000",
+                  "PeriodStartTime": "2025-04-29T10:00:00Z",
+                  "Quantity": "1.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745924400000",
+                  "PeriodStartTime": "2025-04-29T11:00:00Z",
+                  "Quantity": "1.240000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745928000000",
+                  "PeriodStartTime": "2025-04-29T12:00:00Z",
+                  "Quantity": "2.610000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745931600000",
+                  "PeriodStartTime": "2025-04-29T13:00:00Z",
+                  "Quantity": "0.810000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745935200000",
+                  "PeriodStartTime": "2025-04-29T14:00:00Z",
+                  "Quantity": "0.870000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745938800000",
+                  "PeriodStartTime": "2025-04-29T15:00:00Z",
+                  "Quantity": "1.050000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745942400000",
+                  "PeriodStartTime": "2025-04-29T16:00:00Z",
+                  "Quantity": "0.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745946000000",
+                  "PeriodStartTime": "2025-04-29T17:00:00Z",
+                  "Quantity": "1.420000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745949600000",
+                  "PeriodStartTime": "2025-04-29T18:00:00Z",
+                  "Quantity": "2.150000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745953200000",
+                  "PeriodStartTime": "2025-04-29T19:00:00Z",
+                  "Quantity": "2.760000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745956800000",
+                  "PeriodStartTime": "2025-04-29T20:00:00Z",
+                  "Quantity": "2.770000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745960400000",
+                  "PeriodStartTime": "2025-04-29T21:00:00Z",
+                  "Quantity": "4.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745964000000",
+                  "PeriodStartTime": "2025-04-29T22:00:00Z",
+                  "Quantity": "1.460000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745967600000",
+                  "PeriodStartTime": "2025-04-29T23:00:00Z",
+                  "Quantity": "1.530000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745971200000",
+                  "PeriodStartTime": "2025-04-30T00:00:00Z",
+                  "Quantity": "2.440000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745974800000",
+                  "PeriodStartTime": "2025-04-30T01:00:00Z",
+                  "Quantity": "1.890000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745978400000",
+                  "PeriodStartTime": "2025-04-30T02:00:00Z",
+                  "Quantity": "1.400000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745982000000",
+                  "PeriodStartTime": "2025-04-30T03:00:00Z",
+                  "Quantity": "2.450000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745985600000",
+                  "PeriodStartTime": "2025-04-30T04:00:00Z",
+                  "Quantity": "1.490000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745989200000",
+                  "PeriodStartTime": "2025-04-30T05:00:00Z",
+                  "Quantity": "0.740000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745992800000",
+                  "PeriodStartTime": "2025-04-30T06:00:00Z",
+                  "Quantity": "0.710000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1745996400000",
+                  "PeriodStartTime": "2025-04-30T07:00:00Z",
+                  "Quantity": "0.950000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746000000000",
+                  "PeriodStartTime": "2025-04-30T08:00:00Z",
+                  "Quantity": "1.020000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746003600000",
+                  "PeriodStartTime": "2025-04-30T09:00:00Z",
+                  "Quantity": "1.690000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746007200000",
+                  "PeriodStartTime": "2025-04-30T10:00:00Z",
+                  "Quantity": "0.340000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746010800000",
+                  "PeriodStartTime": "2025-04-30T11:00:00Z",
+                  "Quantity": "0.670000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746014400000",
+                  "PeriodStartTime": "2025-04-30T12:00:00Z",
+                  "Quantity": "0.550000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746018000000",
+                  "PeriodStartTime": "2025-04-30T13:00:00Z",
+                  "Quantity": "1.230000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746021600000",
+                  "PeriodStartTime": "2025-04-30T14:00:00Z",
+                  "Quantity": "1.470000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746025200000",
+                  "PeriodStartTime": "2025-04-30T15:00:00Z",
+                  "Quantity": "1.560000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746028800000",
+                  "PeriodStartTime": "2025-04-30T16:00:00Z",
+                  "Quantity": "3.330000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746032400000",
+                  "PeriodStartTime": "2025-04-30T17:00:00Z",
+                  "Quantity": "1.700000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746036000000",
+                  "PeriodStartTime": "2025-04-30T18:00:00Z",
+                  "Quantity": "1.100000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746039600000",
+                  "PeriodStartTime": "2025-04-30T19:00:00Z",
+                  "Quantity": "2.590000",
+                  "Quality": "OK"
+              },
+              {
+                  "Epoch": "1746043200000",
+                  "PeriodStartTime": "2025-04-30T20:00:00Z",
+                  "Quantity": "2.870000",
+                  "Quality": "OK"
+              }
+          ]
+      }
+  ]
+}
