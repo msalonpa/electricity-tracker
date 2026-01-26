@@ -28,10 +28,12 @@ def get_data_format(mode = 'now', format = 'list'):
     if not _data:
         return {'Error': 500}
 
-    k,v,p = parse_data(_data)
+    price_data = parse_data(_data)
+    # debug
+    # print (price_data)
     if format == 'json':
-        return jsonify(_data)
-    return p
+        return jsonify({'hour': [h.__dict__ for h in price_data.hour]})
+    return [f"{h.time} value: {h.value}" for h in price_data.hour]
 
 @app.route('/data', methods=['POST'])
 def add_data():

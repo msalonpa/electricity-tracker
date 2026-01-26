@@ -1,0 +1,201 @@
+{
+    "TimeSeries": [
+        {
+            "MeteringPointEAN": "643007520004355712",
+            "ResolutionDuration": "PT1H",
+            "PeriodStartTS": "2025-11-30T22:00:00.000Z",
+            "PeriodEndTS": "2025-12-31T22:00:00.000Z",
+            "ProductType": "8716867000030",
+            "UnitType": "kWh",
+            "ReadingType": "BN01",
+            "Observations": [
+                {
+                    "Epoch": "1764540000000",
+                    "PeriodStartTime": "2025-11-30T22:00:00Z",
+                    "Quantity": "56.450000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1764626400000",
+                    "PeriodStartTime": "2025-12-01T22:00:00Z",
+                    "Quantity": "54.700000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1764712800000",
+                    "PeriodStartTime": "2025-12-02T22:00:00Z",
+                    "Quantity": "49.570000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1764799200000",
+                    "PeriodStartTime": "2025-12-03T22:00:00Z",
+                    "Quantity": "53.240000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1764885600000",
+                    "PeriodStartTime": "2025-12-04T22:00:00Z",
+                    "Quantity": "45.030000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1764972000000",
+                    "PeriodStartTime": "2025-12-05T22:00:00Z",
+                    "Quantity": "72.170000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765058400000",
+                    "PeriodStartTime": "2025-12-06T22:00:00Z",
+                    "Quantity": "59.790000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765144800000",
+                    "PeriodStartTime": "2025-12-07T22:00:00Z",
+                    "Quantity": "57.030000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765231200000",
+                    "PeriodStartTime": "2025-12-08T22:00:00Z",
+                    "Quantity": "56.050000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765317600000",
+                    "PeriodStartTime": "2025-12-09T22:00:00Z",
+                    "Quantity": "52.270000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765404000000",
+                    "PeriodStartTime": "2025-12-10T22:00:00Z",
+                    "Quantity": "60.450000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765490400000",
+                    "PeriodStartTime": "2025-12-11T22:00:00Z",
+                    "Quantity": "67.100000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765576800000",
+                    "PeriodStartTime": "2025-12-12T22:00:00Z",
+                    "Quantity": "68.460000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765663200000",
+                    "PeriodStartTime": "2025-12-13T22:00:00Z",
+                    "Quantity": "91.000000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765749600000",
+                    "PeriodStartTime": "2025-12-14T22:00:00Z",
+                    "Quantity": "56.760000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765836000000",
+                    "PeriodStartTime": "2025-12-15T22:00:00Z",
+                    "Quantity": "60.630000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1765922400000",
+                    "PeriodStartTime": "2025-12-16T22:00:00Z",
+                    "Quantity": "47.720000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766008800000",
+                    "PeriodStartTime": "2025-12-17T22:00:00Z",
+                    "Quantity": "45.010000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766095200000",
+                    "PeriodStartTime": "2025-12-18T22:00:00Z",
+                    "Quantity": "66.600000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766181600000",
+                    "PeriodStartTime": "2025-12-19T22:00:00Z",
+                    "Quantity": "75.200000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766268000000",
+                    "PeriodStartTime": "2025-12-20T22:00:00Z",
+                    "Quantity": "50.150000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766354400000",
+                    "PeriodStartTime": "2025-12-21T22:00:00Z",
+                    "Quantity": "61.580000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766440800000",
+                    "PeriodStartTime": "2025-12-22T22:00:00Z",
+                    "Quantity": "106.270000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766527200000",
+                    "PeriodStartTime": "2025-12-23T22:00:00Z",
+                    "Quantity": "113.370000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766613600000",
+                    "PeriodStartTime": "2025-12-24T22:00:00Z",
+                    "Quantity": "55.930000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766700000000",
+                    "PeriodStartTime": "2025-12-25T22:00:00Z",
+                    "Quantity": "74.360000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766786400000",
+                    "PeriodStartTime": "2025-12-26T22:00:00Z",
+                    "Quantity": "80.430000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766872800000",
+                    "PeriodStartTime": "2025-12-27T22:00:00Z",
+                    "Quantity": "92.960000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1766959200000",
+                    "PeriodStartTime": "2025-12-28T22:00:00Z",
+                    "Quantity": "85.830000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1767045600000",
+                    "PeriodStartTime": "2025-12-29T22:00:00Z",
+                    "Quantity": "110.100000",
+                    "Quality": "OK"
+                },
+                {
+                    "Epoch": "1767132000000",
+                    "PeriodStartTime": "2025-12-30T22:00:00Z",
+                    "Quantity": "98.710000",
+                    "Quality": "OK"
+                }
+            ]
+        }
+    ]
+}

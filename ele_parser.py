@@ -3,6 +3,7 @@ from datetime import datetime
 import pytz
 import csv
 import xlsxwriter
+from models import PriceData
 
 def enable_debug():
     global debug
@@ -54,24 +55,9 @@ def parse_data(json_string):
     except:
         data = json_string
 
-    keys = []
-    values = []
-    prices = []
-
-    if debug:
-        print (f"Hinnat {data[0]['time']}")
-    #print (data.values)
-
-    # Now `data` is a Python list of dictionaries
-    for price in data:
-        keys.append(price['time'])
-        values.append(price['value'])
-        if debug:
-            print(price['value'])
-        prices.append(f"{price['time']} value: {price['value']}")
-        #print(f"Name: {person['time']}, Age: {person['value']}")
-
-    return (keys, values, prices)
+    # Use the data model
+    price_data = PriceData.from_dict({'hour': data.get('hour', [])})
+    return price_data
 
 def parse_prices_date_value(json_string):
     # Parsing the JSON string into a Python object

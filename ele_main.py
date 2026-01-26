@@ -33,7 +33,9 @@ def main():
 
     data = getData(mode)
     #print (data)
-    keys, values = parse_data(data)
+    price_data = parse_data(data)
+    keys = [h.time for h in price_data.hour]
+    values = [h.value for h in price_data.hour]
 
     c = getConsumption()
     if c:
