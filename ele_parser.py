@@ -126,9 +126,8 @@ def parse_observations(data):
             local_time = datetime.fromisoformat(obs['PeriodStartTime'].replace('Z', '+00:00')).astimezone(pytz.timezone('Europe/Helsinki'))
             formatted_time = local_time.strftime('%Y-%m-%d %H:%M:%S')
             result.append(f"{formatted_time} - Quantity: {obs['Quantity']}")
-    
+
     return result
-    #return (0, 0, result)
 
 def create_price_table(priceData, consumptionData):
     # Parsing the JSON string into a Python object
@@ -141,6 +140,7 @@ def create_price_table(priceData, consumptionData):
         return []
 
     observations = consumptionData['TimeSeries'][0]['Observations']
+    periodStart = None
 
     #titles = ['Time,Price,Margin,Total Price,Quantity,Total']
     titles = ['Time','Price','Margin','Totalprice','Consumption','Total','Daily Cons','Daily Price','Daily Avg']
@@ -155,6 +155,8 @@ def create_price_table(priceData, consumptionData):
     for price in prices:
         local_time = datetime.fromisoformat(price['date'].replace('Z', '+00:00')).astimezone(pytz.timezone('Europe/Helsinki'))
         formatted_time = local_time.strftime('%Y-%m-%d %H:%M:%S')
+        if periodStart is None:
+            periodStart = formatted_time.split(' ')[0]
         hourprice = float(price['value'])
         totalprice = hourprice + margin
         row = {"Time": formatted_time}
@@ -186,16 +188,16 @@ def create_price_table(priceData, consumptionData):
         result.append(row)
 
     #print (f"Hinnat json: {result}")
-    createExcelFile(result)
+    createExcelFile(result, f"records/record_{periodStart}.xlsx")
 
-    with open('records.csv', 'w', newline='') as csvfile:
+    with open(f'records/record_{periodStart}.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=titles)
         writer.writeheader()
         writer.writerows(result)
     return (result, '\n\r'.join(rows), total_consumption, total_price)
 
-def createExcelFile(consumptionData):
-    workbook = xlsxwriter.Workbook('records.xlsx')
+def createExcelFile(consumptionData, filename='records.xlsx'):
+    workbook = xlsxwriter.Workbook(filename)
     worksheet = workbook.add_worksheet()
 
     # Write headers

@@ -101,7 +101,7 @@ def getConsumptionDatahub(days = 1, token = None):
     now = f"{str(getDate(0))}" #T22:00:00.000Z"
     return getConsumptionHistory(then, now, token)
 
-def getConsumptionHistory(then, now, token = None, method='POST'):
+def getConsumptionHistory(then, now, filename = None, token = None, method='POST'):
     if not meteringPoint:
         print("Error: Missing metering point EAN. Please check your environment variables.")
         return None
@@ -116,7 +116,7 @@ def getConsumptionHistory(then, now, token = None, method='POST'):
     }
 
     thenUtc = getMidnightIsoFormat(then)
-    nowUtc = getMidnightIsoFormat(now)
+    nowUtc = getMidnightIsoFormat(now, lastMinute=True)
 
     if method == 'GET':
         path = f"{datahubApi}{datahubParams.format(metering_point_ean=meteringPoint).replace('DATE_FROM',thenUtc).replace('DATE_TO',nowUtc)}"
@@ -139,7 +139,7 @@ def getConsumptionHistory(then, now, token = None, method='POST'):
         }
 
         #response = requests.post(datahubApi, headers=headers, json=data)
-        response = readFromJson()
+        response = readFromJson(filename)
         return response
 
     if response.status_code == 200:
@@ -182,7 +182,7 @@ def getSahkotinHistory(then, now):
     if not now:
         nowUtc = toISOFormat(datetime.fromisoformat(thenUtc) + timedelta(days=3))
     else:
-        nowUtc = getMidnightIsoFormat(now)
+        nowUtc = getMidnightIsoFormat(now, lastMinute=True)
     
     print ('now', nowUtc)
     print ('now', now)
@@ -227,14 +227,15 @@ def getDate(delta):
         print('tomorrow', tomorrow)
     return tomorrow
 
-def getMidnightIsoFormat(dateStr):
+def getMidnightIsoFormat(dateStr, lastMinute=False):
     # If the string already contains timezone info, extract just the date part
     if isinstance(dateStr, str) and 'T' in dateStr:
         dateStr = dateStr.split('T')[0]
     
+    midnight = '23:45:00' if lastMinute else '00:00:00'
     hourDiff = 3 if IS_SUMMER_TIME else 2
     tzinfo = '+03:00' if IS_SUMMER_TIME else '+02:00'
-    localtimeStr = f"{dateStr}T00:00:00{tzinfo}"
+    localtimeStr = f"{dateStr}T{midnight}{tzinfo}"
     localTimeIso = datetime.fromisoformat(localtimeStr)
     utcTime = localTimeIso - timedelta(hours=hourDiff)
     return f"{utcTime}".replace(' ', 'T').replace(tzinfo, 'Z')
@@ -244,6 +245,8 @@ def toISOFormat(utcTime):
     return f"{dateStr}Z"
 
 def readFromJson(file='consumption.json'):
+    if debug:
+        print (f'Reading from file: {file}')
     try:
         with open(file, 'r') as file:
             return json.load(file)

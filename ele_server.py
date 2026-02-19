@@ -119,6 +119,10 @@ def get_fulldata(days = '1'):
 def get_history():
     fromDate = request.args.get('from', default=None)
     toDate = request.args.get('to', default=None)
+    month = fromDate[5:7] if fromDate else '01'
+    year = fromDate[2:4] if fromDate else '26'
+    file = f'data/consumption_{month}_{year}.json'
+    filename = request.args.get('file', default=file)
 
     if not fromDate: # or not toDate:
         return {'Error': 404, "message": "Missing date parameter"}
@@ -126,32 +130,35 @@ def get_history():
     if not validateDate(fromDate): # or not validateDate(toDate):
         return {'Error': 404, "message": "Invalid date format"}
 
-    #then = f"{fromDate}T00:00:00.000Z"
-    #now = f"{toDate}T22:00:00.000Z" if toDate else None
+    then = f"{fromDate}T00:00:00.000Z"
+    now = f"{toDate}T23:59:00.000Z" if toDate else None
 
-    #print (f'Search Results for: {then}')
-    #print (f'Search Results for: {now}')
+    print (f'Search Results from: {then} to {now}')
+    #print (f'Filename: {filename}')
+
+    ele_data = getSahkotinHistory(then, now)
+    #print ('eleData:', eleData)
+    #print (eleData)
     #return {'Error': 500}
 
-    # TEST
-    #_test = test_conversion(fromDate)
-    #if not _test:
-    #    return {'TEST OK': 200}
-    token = None
-    if len(data) > 1:
-        token = data[1].token
-    print (token)
-
-    _data = getConsumptionHistory(fromDate, toDate)
-    if _data and 'ReasonCode' in _data:
+    cons_data = getConsumptionHistory(fromDate, toDate, filename)
+    if cons_data and 'ReasonCode' in cons_data:
         print ('DATA IS NOT VAIID')
-        return _data['EventReasons']
+        return cons_data['EventReasons']
     #print ('_data:')
     #print (_data)
-    if _data:
-        obs = parse_observations(_data)
+
+    json, csv, consumption, price = create_price_table(ele_data, cons_data)
+    ppkwh = price / consumption
+
+    return {"results": "In File", "price": price, "consumption": consumption, "ppkwh": f"{ppkwh:.3f} c/kwh"}
+
+    ''''''
+    if cons_data:
+        obs = parse_observations(cons_data)
         return {"results": obs}
     return {'Error': 500}
+    ''''''
 
 
 @app.route('/pricehistory/', methods=['GET'])
@@ -214,6 +221,14 @@ def get_distribution():
         'totalConsumption': winterdayConsumption + otherTimetConsumption,
         'winterdayPercentage': winterdayConsumption / (winterdayConsumption + otherTimetConsumption) * 100,
     }
+
+@app.route('/winterday/', methods=['GET'])
+def get_winterday():
+    month = request.args.get('m', default=None)
+    year = request.args.get('y', default=None)
+    print (f'consumption_{month}_{year}.json')
+
+    return {'Error': 404, "message": "Missing date parameter"}
 
 def validateDate(dateStr):
     ari = dateStr.split('-')
